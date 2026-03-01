@@ -1,0 +1,6 @@
+server
+*.o
+*.out
+*.dSYM/
+.DS_Store
+urls.txt
